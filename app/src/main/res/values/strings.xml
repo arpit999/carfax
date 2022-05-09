@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">   CARFAX</string>
+
+    <string name="car">%1$s, %2$s, %3$s, %4$s</string>
+    <string name="two_params">%1$s, %2$s</string>
+
+    <!--Symbols-->
+    <string name="space">" "</string>
+    <string name="mi">" mi"</string>
+    <string name="pipe">" | "</string>
+
+
+</resources>
